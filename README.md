@@ -27,9 +27,8 @@ We provide two processed datasets:
 
 ### Run
 
-Please run the 'main.py' 
+Please run the 'multi.py' for model training and evaluation.
 
 ```
-python main.py
+python multi.py
 ```
-
